@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Göktuğ 👋</h1>
 <p align="center">
-  Full Stack Builder • AI Developer @ LingoFun
+  Full Stack Developer • AI Developer @ LingoFun
 </p>
 
 ---
