@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Göktuğ 👋</h1>
 <p align="center">
-  AI Engineer • Full Stack Builder • Founder @ GoAr Technology
+  AI Engineer • Full Stack Builder • AI Developer @ LingoFun
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ---
 
 ### 🧰 Tech Stack
-`Python` `Supabase` `Next.js` `React` `LangChain` `Flutter` `Firebase`
+`Python` `Supabase` `Next.js` `React` `Flutter` `Firebase`
 
 ---
 
